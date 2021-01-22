@@ -1,4 +1,4 @@
-.credentials
+.credentials/
 # Logs
 logs
 *.log
