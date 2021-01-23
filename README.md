@@ -13,4 +13,4 @@ __This bot will help keep your schedule on track and stay organized with your ta
 * Clearing messages
     * Commands may clutter the chat so this allows you to easily delete them
 
-![Bot Example](/calendarexample.png=100x)
+![Bot Example](/calendarexample.png)
