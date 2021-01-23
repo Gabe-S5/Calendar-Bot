@@ -1,0 +1,23 @@
+{
+  "name": "calendar-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabe-S5/Calendar-Bot.git"
+  },
+  "author": "Gabriel Salisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabe-S5/Calendar-Bot/issues"
+  },
+  "homepage": "https://github.com/Gabe-S5/Calendar-Bot#readme"
+}
