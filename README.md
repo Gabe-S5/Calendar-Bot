@@ -1,3 +1,3 @@
 # Calendar Discord Bot!
-![Calendar Logo](/calendar.png = 250x)
+![Calendar Logo](/calendar.png =250x)
 
