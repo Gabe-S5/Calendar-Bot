@@ -1,7 +1,7 @@
 # Calendar Discord Bot!
-<img src="https://www.freeiconspng.com/thumbs/calendar-image-png/calendar-image-png-3.png" width="100" height="100" />
+<img src="https://www.freeiconspng.com/thumbs/calendar-image-png/calendar-image-png-3.png" width="150" height="150" />
 
-This bot will help keep your schedule on track and stay organized with your tasks.
+__This bot will help keep your schedule on track and stay organized with your tasks.__
 
 ## Features Include
 * Setting a timer
