@@ -118,11 +118,12 @@ module.exports = {
     name: 'edit',
     description: 'Edit the calendar. Edit description, edit event, edit title.',
     execute(message, args) {
-        const param = args[0].toLowerCase()
         if (!args[0]) {
-            message.channel.send('Please indicate what you would like to edit. (title, description, event)')
+            message.channel.send('Please indicate what you would like to edit. !edit (title, description, event, footer)')
+            return
         }
-        else if (!newEmbed) {
+        const param = args[0].toLowerCase()
+        if (!newEmbed) {
             message.channel.send('No calendar currently made. ')
         }
         else if (param === 'title' || param === 'description' || param === 'footer') {
@@ -133,6 +134,7 @@ module.exports = {
         }
         else {
             message.channel.send('Paramater does not match. (description, title, event, footer)')
+            return
         }
     }
 }
