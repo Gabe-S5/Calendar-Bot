@@ -8,9 +8,15 @@ __This bot will help keep your schedule on track and stay organized with your ta
     * Will ping you after a given amount of time
 * Viewing your current calendar for the week
     * View Calendar
-    * Add events/tasks
     * Create new calendar
+* Edit parts of calendar
+    * title
+    * description
+    * events
+    * footer
 * Clearing messages
     * Commands may clutter the chat so this allows you to easily delete them
+* !commands will preview all existing commands
 
+### The following is a preview of the calendar. 
 ![Bot Example](/calendarexample.png)
