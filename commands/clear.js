@@ -11,7 +11,7 @@ module.exports = {
 
         await message.channel.messages.fetch({ limit: amount }).then(messages => {
             message.channel.bulkDelete(messages, true);
-            message.channel.send(`Deleted ${amount} messages.`)
+            message.channel.send(`Cleared ${amount} messages.`)
         })
     }
 }
