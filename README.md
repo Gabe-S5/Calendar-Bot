@@ -5,6 +5,8 @@ __This bot will help keep your schedule on track and stay organized with your ta
 
 Starts with a blank calendar of the current week in which you can add events/reminders to select days. Make new calendars when the week passes. 
 
+Set timers to notify you on discord.
+
 ## Features Include
 * Setting a timer
     * Will ping you after a given amount of time
